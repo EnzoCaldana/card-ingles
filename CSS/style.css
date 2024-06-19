@@ -3,7 +3,7 @@
 
 
 
-*{
+*   {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -20,4 +20,28 @@ main{
      background-color: #506DBE;
      margin: 20px;
      
+}
+
+.alunos{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #506DBE;
+    height: 95px;
+    margin: 20px;
+    
+}
+
+.logo{
+    width: 200px;
+}
+
+.aluno {
+    width: 100px;
+    /* margin-left: 10px; */
+}
+
+.professor {
+    width: 100px;
+   
 }
