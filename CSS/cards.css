@@ -28,14 +28,14 @@
 }
 
 .front{
-    background-color: #0548FF;
+    background-color: #ffe4e1;
     transform: rotateY(0);
     cursor: pointer;
     
 }
 
 .back{
-    background-color: #769AFE;
+    background-color: #e0ffff;
     transform: rotateY(180deg);
     cursor: pointer;
 }
